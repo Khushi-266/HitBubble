@@ -36,7 +36,7 @@ body{ width: 100%;
 
 
 #panel {
-    border: 2px solid rgb(144, 191, 208);
+   
     overflow: hidden;
     width: 90%;
     max-width: 1000px;
